@@ -5,7 +5,7 @@ namespace Radar\Router;
 use Aura\Router\Rule;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
-use Radar\Action\
+use Radar\Action\AbstractResponder;
 
 /**
  *

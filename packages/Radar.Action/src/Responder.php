@@ -3,7 +3,7 @@
 
 namespace Radar\Action\Responder;
 
-use Aura\Payload_Interface\PayloadInterface;
+use Aura\Payload_Interface\ReadablePayloadInterface as PayloadInterface;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
